@@ -1,0 +1,22 @@
+{
+  "name": "iframe",
+  "version": "1.0.0",
+  "description": "sage",
+  "main": "iframe.js",
+  "dependencies": {
+    "eslint": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Call"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sageemmy123"
+  },
+  "keywords": [
+    "Iframe"
+  ],
+  "author": "Sage Knight",
+  "license": "MIT"
+}
